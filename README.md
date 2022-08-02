@@ -22,3 +22,13 @@ successful execution will show the following output
 Server started on 4000
 ----------------------------------------------
 
+# Postman Collection for api testing
+
+# api uses token
+please copy the generated token in collection variables
+
+# Manufacturer
+https://www.getpostman.com/collections/340f58694a48d1e3ffdc
+
+# Dealer
+https://www.getpostman.com/collections/ed1c707b62e079302727
