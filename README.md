@@ -12,6 +12,9 @@ testnetwork/organizations/peerOrganizations/org2.example.com/connection-org2.jso
 
 # Start Node SDK Server
 cd ../api/
+
+Run "npm install"
+
 node app.js
 
 successful execution will show the following output

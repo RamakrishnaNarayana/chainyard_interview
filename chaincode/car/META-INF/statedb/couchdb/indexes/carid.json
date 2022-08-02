@@ -1,0 +1,11 @@
+{
+    "index": {
+      "fields": [
+        "CarID"
+      ]
+    },
+    "ddoc": "CarIDDoc",
+    "name": "CarIDIndex",
+    "type": "json"
+}
+

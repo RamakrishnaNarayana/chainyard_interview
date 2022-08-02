@@ -1,0 +1,11 @@
+{
+    "index": {
+      "fields": [
+        "CarType"
+      ]
+    },
+    "ddoc": "CarTypeDoc",
+    "name": "CarTypeIndex",
+    "type": "json"
+}
+
